@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-JsonPlaceholderAPI-Post-Reader/static/css/main.db75f167.chunk.css",
+    "main.js": "/React-JsonPlaceholderAPI-Post-Reader/static/js/main.1723e33c.chunk.js",
+    "main.js.map": "/React-JsonPlaceholderAPI-Post-Reader/static/js/main.1723e33c.chunk.js.map",
+    "runtime-main.js": "/React-JsonPlaceholderAPI-Post-Reader/static/js/runtime-main.0b951732.js",
+    "runtime-main.js.map": "/React-JsonPlaceholderAPI-Post-Reader/static/js/runtime-main.0b951732.js.map",
+    "static/css/2.67123b20.chunk.css": "/React-JsonPlaceholderAPI-Post-Reader/static/css/2.67123b20.chunk.css",
+    "static/js/2.e97a772a.chunk.js": "/React-JsonPlaceholderAPI-Post-Reader/static/js/2.e97a772a.chunk.js",
+    "static/js/2.e97a772a.chunk.js.map": "/React-JsonPlaceholderAPI-Post-Reader/static/js/2.e97a772a.chunk.js.map",
+    "index.html": "/React-JsonPlaceholderAPI-Post-Reader/index.html",
+    "precache-manifest.0bc2f39cfdf5e66c8e368b1c48c67bc3.js": "/React-JsonPlaceholderAPI-Post-Reader/precache-manifest.0bc2f39cfdf5e66c8e368b1c48c67bc3.js",
+    "service-worker.js": "/React-JsonPlaceholderAPI-Post-Reader/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/React-JsonPlaceholderAPI-Post-Reader/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.db75f167.chunk.css.map": "/React-JsonPlaceholderAPI-Post-Reader/static/css/main.db75f167.chunk.css.map",
+    "static/js/2.e97a772a.chunk.js.LICENSE.txt": "/React-JsonPlaceholderAPI-Post-Reader/static/js/2.e97a772a.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/React-JsonPlaceholderAPI-Post-Reader/static/media/logo.56688d3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b951732.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.e97a772a.chunk.js",
+    "static/css/main.db75f167.chunk.css",
+    "static/js/main.1723e33c.chunk.js"
+  ]
+}
